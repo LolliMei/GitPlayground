@@ -4,4 +4,6 @@
 # What is fetch ???
 # Why I cannot commit?
 # git checkout origin/master README.md // it will not save you local changes, overwrite by remote version
+# git checkout [filename] // discard file change 
+# git checkout .	 // discard all working space changes
 
