@@ -7,4 +7,6 @@
 # git branch temp // it can create a new branch or move to a existed branch
 # git merge a b // this could merge two base
 
+# git checkout [filename] // discard file change 
+# git checkout .	 // discard all working space changes
 
